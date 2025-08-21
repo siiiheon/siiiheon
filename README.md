@@ -1,4 +1,4 @@
-## 안녕하세요 👋
+## Paving the way for Cyber Security
 
 
 경북소프트웨어마이스터고등학교 

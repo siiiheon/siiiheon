@@ -1,7 +1,8 @@
 ## Paving the way for Cyber Security
 
 
-경북소프트웨어마이스터고등학교 
+Beginner Security Engineer\n
+
 김시헌
 <!--
 **siiiheon/siiiheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

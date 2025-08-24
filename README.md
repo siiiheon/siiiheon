@@ -1,6 +1,6 @@
 ## Paving the way for Cyber Security
 
-🔭 Beginner Cyber Security Engineer
+🔭 Beginner AI & Cyber Security Engineer
 김시헌
 
 📚

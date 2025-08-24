@@ -1,7 +1,11 @@
 ## Paving the way for Cyber Security
 
-🔭 Beginner Security Engineer
+🔭 Beginner Cyber Security Engineer
 김시헌
+
+📚
+
+🏆 
 <!--
 **siiiheon/siiiheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

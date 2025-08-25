@@ -3,9 +3,9 @@
 🔭 Beginner AI & Cyber Security Engineer
 김시헌
 
-📚
+📚 Project
 
-🏆 
+🏆 Prize
 <!--
 **siiiheon/siiiheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

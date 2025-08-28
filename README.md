@@ -4,9 +4,10 @@
 김시헌
 
 📚 Project
+-
 
 🏆 Prize 
--
+충북대학교 2025년 +AI 메이커톤 경진대회 최우수상
 
 <!--
 **siiiheon/siiiheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

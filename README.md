@@ -8,7 +8,7 @@
 
 <h3> 📋 Activity </h3>
 
-국가정보원주최 CCE 18th
+국가정보원주최 CCE CTF 18th
 
 <h3> 📚 Project </h3>
 

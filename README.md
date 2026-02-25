@@ -8,10 +8,7 @@
 
 <h3> 📋 Activity </h3>
 
-국가정보원주최 CCE CTF 18th
-
-<h3> 📚 Project </h3>
-
+국가정보원 CCE CTF 18th
 
 <!--
 **siiiheon/siiiheon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

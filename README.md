@@ -1,6 +1,6 @@
 ## Paving the way for Cyber Security
 
-🔭 Beginner AI & Cyber Security Engineer
+🔭 Cyber Security Engineer
 
 <h3> 🏆 Prize </h3>
 
